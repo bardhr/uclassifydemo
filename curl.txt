@@ -1,0 +1,1 @@
+curl -i -H "Content-Type: application/json" -X POST -d '{"text":"In my opinion the world is a great place to live"}' http://localhost:5000/classify
